@@ -1,6 +1,8 @@
 # Project Two Code Killas
 project-two-code-killas created by GitHub Classroom
 
+Social event planner app
+
 ## User stories:
 - Users can register.
 - Users can login with username and password.
